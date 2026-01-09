@@ -106,6 +106,7 @@ The template enforces these commit prefixes:
 
 - [Claude Code Documentation](https://docs.anthropic.com/en/docs/claude-code)
 - [Claude Code GitHub](https://github.com/anthropics/claude-code)
+- [AGENTS.md](https://agents.md)
 
 ## License
 
